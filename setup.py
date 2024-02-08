@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='modified_customtkiter',
+    name='modified_customtkinter',
     version='1.0.0',
     description='A modified version of customtkinter',
     author='Umer Shahzad',
